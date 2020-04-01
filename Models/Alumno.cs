@@ -9,5 +9,6 @@ namespace WebApplication1.Models
     {
         public int MyProperty { get; set; }
         public int nombre { get; set; }
+        public int tres { get; set; }
     }
 }
