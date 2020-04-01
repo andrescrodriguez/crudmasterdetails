@@ -7,5 +7,6 @@ namespace WebApplication1.Models
 {
     public class Alumno
     {
+        public int MyProperty { get; set; }
     }
 }
