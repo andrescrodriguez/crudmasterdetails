@@ -70,6 +70,8 @@ namespace WebApplication1
                     spa.UseAngularCliServer(npmScript: "start");
                 }
             });
+
+            app.UseAuthentication();
         }
     }
 }
