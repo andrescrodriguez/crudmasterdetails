@@ -12,5 +12,7 @@ namespace WebApplication1.Models
         public int tres { get; set; }
         public int four { get; set; }
         public int five { get; set; }
+        public int five2 { get; set; }
+        public int five3 { get; set; }
     }
 }
